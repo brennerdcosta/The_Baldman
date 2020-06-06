@@ -1,2 +1,2 @@
-# The_Baldman
-I'm a bald Engineer who maintains a fair balance between Software Engineering and Hardware Engineering.
+# Rhapsodizer of Rationality
+Engineer who maintains a fair balance between Software Engineering and Hardware Engineering.
