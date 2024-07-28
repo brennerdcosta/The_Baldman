@@ -1,2 +1,4 @@
 # Rhapsodizer of Rationality
-Engineer who maintains a fair balance between Software Engineering and Hardware Engineering.
+An Engineer who maintains a fair balance between Software Engineering and Hardware Engineering.
+
+Currently working in the field of AI and Machine Learning.
